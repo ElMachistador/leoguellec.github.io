@@ -1,0 +1,14 @@
+header{
+    background-image: url(https://live.staticflickr.com/4384/36931542816_898fbd0388_b.jpg);
+    height: 400px;
+    background-position: center;
+}
+.btn{
+    text-decoration: none;
+    background-color: lightskyblue;
+    color: black;
+    padding: 0.5% 1% 0.5%;
+}
+body{
+    font-family: cursive;
+}
